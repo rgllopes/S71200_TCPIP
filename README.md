@@ -52,4 +52,6 @@ InverterAssy = 1 Counter stop <br />
 
 ![image](https://user-images.githubusercontent.com/55773189/153869668-05a035ee-c89d-4ca8-9bdf-747733c6571d.png)
 
+### TIP => Always you change some IP configuration, make a Download "Hardware configuration" and "Software configuration"
+
 ## ENJOY!!

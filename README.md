@@ -8,7 +8,7 @@ In this software its possible send 2 bytes and receive 8 bytes in ASCII
 
 ### To config
 
-#### STEP 1
+### STEP 1
 
 In device configuration/General/PROFINET Interface [X1]/Ethernet address you can
 can config the PLC IP Address
@@ -28,12 +28,15 @@ If you change the bytes quantity to send and/or receive alter the DATA[DB6] Arra
 
 ![image](https://user-images.githubusercontent.com/55773189/153867516-8c83cab3-131f-4099-8a55-6ce0b4b42d06.png)
 
-##### STEP 4
+### STEP 4
 
 Compile -> Hardware(compile all)
 Compile -> Software (Software All)
 Download to device Hardware configuration
 Download to device Software(all)
+
+TIP =>
+Always you change some IP configuration, make a Download "Hardware configuration" and "Software configuration"
 
 ### Step 5
 
@@ -51,7 +54,5 @@ InverterAssy = 0 Counter is start <br />
 InverterAssy = 1 Counter stop <br />
 
 ![image](https://user-images.githubusercontent.com/55773189/153869668-05a035ee-c89d-4ca8-9bdf-747733c6571d.png)
-
-### TIP => Always you change some IP configuration, make a Download "Hardware configuration" and "Software configuration"
 
 ## ENJOY!!

@@ -28,7 +28,7 @@ If you change the bytes quantity to send and/or receive alter the DATA[DB6] Arra
 
 ![image](https://user-images.githubusercontent.com/55773189/153867516-8c83cab3-131f-4099-8a55-6ce0b4b42d06.png)
 
-### STEP 4
+##### STEP 4
 
 Compile -> Hardware(compile all)
 Compile -> Software (Software All)
